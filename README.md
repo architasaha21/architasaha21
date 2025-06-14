@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=22CDF7&width=435&lines=Code.+Design.+Dream.+Repeat.+%F0%9F%92%BB)](https://git.io/typing-svg)
-
+![logo](https://github.com/architasaha21/architasaha21/blob/main/banner.png)
 
 <h1 align="center">Hi there 👋 I'm Archita <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f564d9a-467a-4bba-ad3a-8527c8ab79ae" width="75">&nbsp;</h1>
 <h3 align="center">A Passionate Web Developer | Software Engineer Enthusiast</h3>
@@ -13,7 +12,9 @@
 
 - 🌱 I’m currently learning **Full Stack Development | MERN**
 
-- 💬 Ask me about **Web Development, Machine Learning or anything creative-tech!**
+- 💬 Ask me about **Web Development, Machine Learning**
+  
+- 📫 How to reach me **kumaripayal7488@gmail.com**
 
 - ⚡ About Me: I'm a *Day Dreamer*
 
