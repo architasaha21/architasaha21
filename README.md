@@ -1,5 +1,9 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Archita </h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=22CDF7&width=435&lines=Code.+Design.+Dream.+Repeat.+%F0%9F%92%BB)](https://git.io/typing-svg)
+
+
+<h1 align="center">Hi there 👋 I'm Archita <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f564d9a-467a-4bba-ad3a-8527c8ab79ae" width="75">&nbsp;</h1>
 <h3 align="center">A Passionate Web Developer | Software Engineer Enthusiast</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=architasaha21&label=Profile%20views&color=0e75b6&style=flat" alt="architasaha21" /></p>
 <br/>
 
