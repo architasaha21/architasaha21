@@ -14,11 +14,13 @@
 
 - 💬 Ask me about **Web Development, Machine Learning**
   
-- 📫 How to reach me **kumaripayal7488@gmail.com**
+- 📫 Reach me via [email](mailto:archita21work@gmail.com)
 
 - ⚡ About Me: I'm a *Day Dreamer*
 
 - 📍 From **India**
+
+<br>
 
 ## Connect with me 
 
