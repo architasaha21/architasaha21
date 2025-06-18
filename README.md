@@ -104,3 +104,9 @@
  <img src="https://nirzak-streak-stats.vercel.app/?user=architasaha21&theme=radical&hide_border=false" width="56%" style="margin-right: 20%;" /><br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=architasaha21&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="34%" />
 </p>
+<br>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=architasaha21&theme=react-dark&bg_color=0D1117&color=79D7FF&line=FF69B4&point=FFD700)
+
+
+
