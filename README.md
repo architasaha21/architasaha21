@@ -55,10 +55,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/archita21">
+  <a href="https://github.com/architasaha21">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=architasaha21&show_icons=true&count_private=true&theme=dracula&hide_border=false&hide=stars"/>
   </a>
-  <a href="https://github.com/archita21">
+  <a href="https://github.com/architasaha21">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=architasaha21&layout=compact&langs_count=6&theme=dracula&hide_border=false"/>
   </a>
 </div>
